@@ -4,10 +4,11 @@ letters = ['a', 'b']
 
 def get_length(list):
     count = 0
-    for element in list:
+    while list != []:
+        list.pop(0)
         count += 1
     return count
 
 
-length = get_length(letters)
+length = get_length(numbers)
 print(length)
