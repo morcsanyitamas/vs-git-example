@@ -1,6 +1,6 @@
 numbers = [1, 2, 3, 4, 5, 6]
 letters = ['a', 'b']
-
+y = [101, 120]
 
 def get_length(list):
     count = 0
