@@ -1,6 +1,6 @@
 numbers = [-1, 0, 1, 2, 3, 4, 5, 6, 7, 8]
 letters = ['a', 'b', 'c']
-x = [10, 11, 20, 30]
+x = [10, 11, 20, 30, 40]
 
 def get_length(list):
     count = 0
